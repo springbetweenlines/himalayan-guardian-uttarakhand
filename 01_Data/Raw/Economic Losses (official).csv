@@ -1,0 +1,15 @@
+Sector,Sub-Sector,Damage (₹ Crore),Loss (₹ Crore),Total Impact,Recovery Need
+SOCIAL,Housing,"2,005.48",0,"2,005.48","3,527.28"
+,Health,"2,579.47",0,"2,579.47","2,579.47"
+,Education,381.9,0,381.9,630.23
+INFRA,Roads,"1,963.29",104.9,"2,068.19","2,819.09"
+,Water Supply,"4,048.88",0,"4,048.88","5,972.85"
+,Power,213.52,0,213.52,271.67
+,Irrigation,248.21,0,248.21,366.96
+PRODUCTIVE,Tourism,744.94,207.29,952.23,"1,090.59"
+,Agriculture,189.23,0,189.23,278.3
+,MSME,0,0,0,152.8
+CROSS-SECTORAL,Environment,37.12,0,37.12,73.16
+,DRR,-,-,"3,017.04","3,017.04"
+,,,,,
+GRAND TOTAL,,"15,103.50",,,"10,998.95"

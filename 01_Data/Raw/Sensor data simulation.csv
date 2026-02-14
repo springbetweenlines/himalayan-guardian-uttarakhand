@@ -1,0 +1,31 @@
+Timestamp,District,Location,Rainfall_mm,Soil_Moisture_%,Slope_Stability,Risk_Level
+6:00,Chamoli,Nandanagar,12.3,45,0.82,LOW
+6:00,Rudraprayag,Kedarnath,8.5,38,0.88,LOW
+6:00,Uttarkashi,Gangotri,5.2,32,0.91,LOW
+7:00,Chamoli,Nandanagar,18.7,52,0.75,LOW
+7:00,Rudraprayag,Kedarnath,15.3,48,0.79,LOW
+8:00,Chamoli,Nandanagar,25.4,61,0.62,MEDIUM
+8:00,Uttarkashi,Barkot,22.1,58,0.68,MEDIUM
+9:00,Chamoli,Nandanagar,32.8,70,0.45,HIGH
+9:00,Rudraprayag,Kedarnath,28.5,65,0.55,MEDIUM
+9:00,Bageshwar,Mining Area,18.2,55,0.71,MEDIUM
+10:00,Chamoli,Nandanagar,45.2,78,0.32,HIGH
+10:00,Rudraprayag,Kedarnath,32.1,65,0.55,MEDIUM
+10:00,Uttarkashi,Gangotri,28.5,59,0.61,LOW
+10:00,Chamoli,Joshimath,52.3,82,0.28,HIGH
+10:00,Pithoragarh,Dharchula,15.2,41,0.78,LOW
+11:00,Chamoli,Nandanagar,48.7,81,0.29,HIGH
+11:00,Rudraprayag,Kedarnath,35.6,68,0.52,MEDIUM
+11:00,Bageshwar,Mining Area,22.3,71,0.45,MEDIUM
+11:00,Uttarkashi,Barkot,31.4,62,0.58,MEDIUM
+12:00,Chamoli,Nandanagar,52.1,85,0.24,HIGH
+12:00,Rudraprayag,Kedarnath,38.9,72,0.48,HIGH
+12:00,Uttarkashi,Gangotri,25.7,55,0.64,MEDIUM
+13:00,Chamoli,Nandanagar,55.3,88,0.21,HIGH
+13:00,Rudraprayag,Kedarnath,42.5,76,0.42,HIGH
+13:00,Chamoli,Joshimath,58.7,89,0.19,HIGH
+14:00,Chamoli,Nandanagar,51.2,84,0.25,HIGH
+14:00,Bageshwar,Mining Area,28.9,73,0.43,MEDIUM
+15:00,Chamoli,Nandanagar,42.8,79,0.31,HIGH
+16:00,Chamoli,Nandanagar,35.6,72,0.44,MEDIUM
+17:00,Chamoli,Nandanagar,22.4,63,0.59,MEDIUM

@@ -1,0 +1,15 @@
+Incident_ID,Date,District,Location,Deaths,Missing,Injured,Houses_Damaged,Trigger,Source
+INC001,18-09-2025,Chamoli,Kuntari Lagaphali,2,4,20,40,Cloudburst,Telegraph India
+INC002,18-09-2025,Chamoli,Kuntari Lagasarpani,0,1,included,included,Cloudburst,Telegraph India
+INC003,18-09-2025,Chamoli,Sera,0,0,included,included,Cloudburst,Telegraph India
+INC004,18-09-2025,Chamoli,Dhurma,0,1,included,included,River Flood,Telegraph India
+INC005,04-08-2025,Uttarkashi,Dharali,4,Several,Unknown,25 hotels,Cloudburst,Telegraph India
+INC006,28-06-2025,Uttarkashi,"Silai Band, Barkot",0,9,0,Labour camp,Cloudburst,The Star
+INC007,01-04 to 10-09-2025,STATEWIDE,All districts,81,94,80,488+,Multiple,USDMA/NDMA
+INC008,10-07-2025,Bageshwar,Mining areas,3,2,5,12,Mining + Rain,NGT Report
+INC009,15-07-2025,Rudraprayag,Kedarnath route,7,9,15,8,Landslide,The Statesman
+INC010,22-07-2025,Pauri,Various,9,7,12,25,Landslide,USDMA
+INC011,05-08-2025,Pithoragarh,Dharchula,6,0,8,20,Landslide,USDMA
+INC012,12-08-2025,Tehri,Devprayag,2,0,4,10,Landslide,Local News
+INC013,25-08-2025,Nainital,Bhimtal,0,0,0,5,Sinkhole,Local News
+INC014,02-09-2025,Almora,Binsar,0,0,2,3,Landslide,Local News

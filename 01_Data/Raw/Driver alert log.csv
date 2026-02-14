@@ -1,0 +1,21 @@
+Driver_ID,Name,Phone,Vehicle_Type,Current_Zone,District,Last_Updated
+D001,Rajesh Singh,9876543210,Cab,NH-7 Rishikesh-Badrinath,Chamoli,10:30
+D002,Meena Devi,9876543211,Tourist Bus,NH-34 Mussoorie,Dehradun,10:15
+D003,Anand Bisht,9876543212,Taxi,NH-109 Kedarnath,Rudraprayag,9:45
+D004,Priya Negi,9876543213,Cab,NH-7 Joshimath,Chamoli,10:00
+D005,Surekha Rawat,9876543214,Local Bus,Gopeshwar-Chamoli,Chamoli,10:20
+D006,Vikram Panwar,9876543215,Cab,NH-34 Barkot,Uttarkashi,11:00
+D007,Kavita Shah,9876543216,Maxi Cab,Gangotri Highway,Uttarkashi,11:15
+D008,Hemant Bisht,9876543217,Truck,NH-7 Rudraprayag,Rudraprayag,10:45
+D009,Sunita Bohra,9876543218,Cab,Dharchula,Pithoragarh,11:30
+D010,Deepak Kandpal,9876543219,Taxi,Almora Bypass,Almora,11:45
+D011,Mohan Singh,9876543220,Cab,NH-7 Pipalkoti,Chamoli,12:00
+D012,Anita Rawat,9876543221,Tourist Cab,Nainital Mall Road,Nainital,12:15
+D013,Suresh Bhatt,9876543222,Local Bus,Pauri-Srinagar,Pauri,12:30
+D014,Rekha Arya,9876543223,Cab,Tehri Dam,Tehri,12:45
+D015,Pankaj Gusain,9876543224,Maxi Cab,Ukhimath,Rudraprayag,13:00
+D016,Lata Kandpal,9876543225,Taxi,Bageshwar Town,Bageshwar,13:15
+D017,Ramesh Thapa,9876543226,Cab,Pithoragarh Town,Pithoragarh,13:30
+D018,Asha Bohra,9876543227,Local Bus,Champawat Road,Champawat,13:45
+D019,Karan Mehra,9876543228,Truck,NH-7 Karnaprayag,Chamoli,14:00
+D020,Neetu Bisht,9876543229,Cab,Ranikhet Road,Almora,14:15
